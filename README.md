@@ -3,6 +3,8 @@
 Mailcow (Docker) on a local Proxmox KVM VM, DNS on Cloudflare, outbound mail
 relayed through Mailjet so Gmail and others do not treat it as spam.
 
+Full guide (Bengali): [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)
+
 ## Quick start
 
 ```bash
