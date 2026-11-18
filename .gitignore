@@ -1,0 +1,4 @@
+mailcow.conf
+.env
+*.key
+*.pem
